@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahad Basem</h1>
-<h3 align="center">Junior Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://pin.it/4SzlGjdCL" width="220" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN4eGQxNmNmeXJ6c2dkcGswbHI0czdqNTQ1emNoaGpleTM3dnBuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="220" />
 </p>
 
 ### 👩‍💻 About Me
@@ -28,7 +27,7 @@ Currently under development as part of our senior graduation project.
 </td>
 <td width="35%" align="center">
 
-<img src="PUT_PROJECT_IMAGE_LINK_HERE" width="200"/>
+<img src="assets/healthbuddy.png" width="200"/>
 
 </td>
 </tr>
@@ -37,45 +36,44 @@ Currently under development as part of our senior graduation project.
 ## 🛠 Languages & Tools
 
 ### 🎨 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-</p>
+- HTML  
+- CSS  
+- JavaScript  
+- Flutter (Dart)
 
 ### ⚙️ Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</p>
+- Java  
+- Python  
+- C  
 
 ### 🧰 Tools & Design
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</p>
+- Git & GitHub  
+- Figma  
+- MySQL  
 
 ## 🌐 Where to find me
 
 <p align="center">
-  <a href="mailto:shahad.engineer1@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="38"/>
-  </a>
+  <strong>📫 shahad.engineer1@gmail.com</strong>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shahad-b-atiah-99016a309/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"/>
   </a>
   <a href="https://instagram.com/0shlr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32"/>
   </a>
   <a href="https://twitter.com/_0shlr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="38"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32"/>
   </a>
 </p>
 
 ## 📊 Most Used Languages
+
+<table>
+<tr>
+<td width="50%">
 
 **Frontend**
 - HTML
@@ -83,8 +81,16 @@ Currently under development as part of our senior graduation project.
 - JavaScript
 - Flutter (Dart)
 
+</td>
+<td width="50%">
+
 **Backend**
 - Java
 - Python
+- C
+
+</td>
+</tr>
+</table>
 
 </details>
