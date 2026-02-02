@@ -30,7 +30,7 @@ Currently under development as part of our senior graduation project.
 </td>
 <td width="35%" align="center">
 
-<img src="HealthBuddy.png" width="200"/>
+<img src="HealthBuddy.jpeg" width="200"/>
 
 </td>
 </tr>
