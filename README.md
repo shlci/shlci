@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahad Basem</h1>
 
 <p align="center">
-  <img src="assets/cat.gif" width="220" />
+  <img src="cat.gif" width="220" />
 </p>
 
 ### 👩‍💻 About Me
