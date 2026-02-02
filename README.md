@@ -8,14 +8,14 @@
 ### ✨ | About Me
 Software Engineering student @Umm Al-Qura University with an interest in:
 - building real-world solutions through software design and development.  
-- applying software engineering principles through coursework and personal projects
+- applying software engineering principles through coursework and personal projects.
 - exposure to system architecture concepts, cloud-based environments, and agile-oriented development.  
 I value collaboration, adaptability, and continuous learning, and I enjoy growing my skills by working on practical and meaningful applications 
 
 <details>
   <summary align="center"><b>More info ⬇️</b></summary>
 
-##🎯 | My Projects
+## 🎯 | My Projects
 
 <table>
 <tr>
@@ -62,13 +62,13 @@ Currently under development as part of our senior graduation project.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahad-b-atiah-99016a309/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" style="margin: 0 10px;" />
   </a>
   <a href="https://instagram.com/0shlr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" style="margin: 0 10px;" />
   </a>
   <a href="https://twitter.com/_0shlr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" style="margin: 0 8px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" style="margin: 0 10px;" />
   </a>
 </p>
 
