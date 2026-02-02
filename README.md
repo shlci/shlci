@@ -1,35 +1,38 @@
-<img src="[https://www.pinterest.com/pin/464222674109426308/](https://pin.it/3YMXWDw8Z)" width="200" />
 <h1 align="center">Hi 👋, I'm Shahad Basem</h1>
 <h3 align="center">Junior Software Engineering Student</h3>
 
-<hr/>
-
 <p align="center">
-  <img src="https://pin.it/3YMXWDw8Z" width="220" />
+  <img src="https://pin.it/4SzlGjdCL" width="220" />
 </p>
-
----
 
 ### 👩‍💻 About Me
 Junior Software Engineering student at Umm Al-Qura University with an interest in building real-world solutions through software design and development.  
 I focus on applying software engineering principles through coursework and personal projects, with exposure to system architecture concepts, cloud-based environments, and agile-oriented development.  
 I value collaboration, adaptability, and continuous learning, and I enjoy growing my skills by working on practical and meaningful applications 🌱
 
----
-
 <details>
   <summary align="center"><b>More info ⬇️</b></summary>
 
----
-
 ## 🚀 My Projects
+
+<table>
+<tr>
+<td width="65%">
 
 ### 🏥 HealthBuddy (Graduation Project)
 A health-focused mobile application designed to help users track and improve their daily lifestyle.  
 The app aims to promote healthier habits through intuitive UI, personalized features, and accessible health insights.  
+
 Currently under development as part of our senior graduation project.
 
----
+</td>
+<td width="35%" align="center">
+
+<img src="PUT_PROJECT_IMAGE_LINK_HERE" width="200"/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠 Languages & Tools
 
@@ -55,35 +58,33 @@ Currently under development as part of our senior graduation project.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
----
-
 ## 🌐 Where to find me
 
 <p align="center">
+  <a href="mailto:shahad.engineer1@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="38"/>
+  </a>
   <a href="https://www.linkedin.com/in/shahad-b-atiah-99016a309/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38"/>
   </a>
   <a href="https://instagram.com/0shlr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38"/>
   </a>
   <a href="https://twitter.com/_0shlr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="38"/>
   </a>
 </p>
-
-📫 **Email:** shahad.engineer1@gmail.com
-
----
 
 ## 📊 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shlci&show_icons=true&locale=en&layout=compact" />
-</p>
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- Flutter (Dart)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlci&show_icons=true&locale=en" />
-</p>
+**Backend**
+- Java
+- Python
 
 </details>
-
