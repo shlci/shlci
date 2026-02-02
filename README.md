@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahad Basem</h1>
+<h3 align="center">Junior Software Engineering Student</h3>
 
 <p align="center">
   <img src="CATI.gif" width="220" />
