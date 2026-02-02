@@ -1,4 +1,4 @@
-<img src="https://www.pinterest.com/pin/464222674109426308/" width="200" />
+<img src="[https://www.pinterest.com/pin/464222674109426308/](https://pin.it/3YMXWDw8Z)" width="200" />
 <h1 align="center">Hi 👋, I'm Shahad Basem</h1>
 <h3 align="center">A Software Engineering Student</h3>
 Interested in Web Development, UI/UX, and learning new technologies 🌱
@@ -8,13 +8,12 @@ Interested in Web Development, UI/UX, and learning new technologies 🌱
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shlci&label=Profile%20views&color=0e75b6&style=flat" alt="shlci" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_0shlr" target="blank"><img src="https://img.shields.io/twitter/follow/_0shlr?logo=twitter&style=for-the-badge" alt="_0shlr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **shahad.engineer1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_0shlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_0shlr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shahad-b-atiah-99016a309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahad-b-atiah-99016a309/" height="30" width="40" /></a>
 <a href="https://instagram.com/0shlr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0shlr" height="30" width="40" /></a>
 </p>
@@ -25,6 +24,4 @@ Interested in Web Development, UI/UX, and learning new technologies 🌱
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlci&show_icons=true&locale=en&layout=compact" alt="shlci" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlci&show_icons=true&locale=en" alt="shlci" /></p>
-
-
 </details>
