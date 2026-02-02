@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="https://www.pinterest.com/pin/464222674109426308/" width="200" />
+### Hi, I'm Shahad 👋
+Software Engineering Student  
+Interested in Web Development, UI/UX, and learning new technologies 🌱
 
-<!--
-**shlci/shlci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>More info ⬇️</summary>
 
-Here are some ideas to get you started:
+  ## 🛠 Languages
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🔧 Tools
+  - Git & GitHub
+  - VS Code
+
+</details>
