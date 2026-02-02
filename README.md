@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Shahad Basem</h1>
+<h1 align="center">Hi 👋🏻, I'm Shahad Basem</h1>
 <h3 align="center">Junior Software Engineering Student</h3>
 
 <p align="center">
   <img src="CATI.gif" width="220" />
 </p>
 
-### 👩‍💻 About Me
-Junior Software Engineering student at Umm Al-Qura University with an interest in building real-world solutions through software design and development.  
-I focus on applying software engineering principles through coursework and personal projects, with exposure to system architecture concepts, cloud-based environments, and agile-oriented development.  
-I value collaboration, adaptability, and continuous learning, and I enjoy growing my skills by working on practical and meaningful applications 🌱
+### ✨ | About Me
+Software Engineering student @Umm Al-Qura University with an interest in:
+- building real-world solutions through software design and development.  
+- applying software engineering principles through coursework and personal projects
+- exposure to system architecture concepts, cloud-based environments, and agile-oriented development.  
+I value collaboration, adaptability, and continuous learning, and I enjoy growing my skills by working on practical and meaningful applications 
 
 <details>
   <summary align="center"><b>More info ⬇️</b></summary>
 
-## 🚀 My Projects
+##🎯 | My Projects
 
 <table>
 <tr>
@@ -28,7 +30,7 @@ Currently under development as part of our senior graduation project.
 </td>
 <td width="35%" align="center">
 
-<img src="assets/healthbuddy.png" width="200"/>
+<img src="HealthBuddy.png" width="200"/>
 
 </td>
 </tr>
