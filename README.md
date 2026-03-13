@@ -70,7 +70,7 @@ I value collaboration, adaptability, and continuous learning, and I enjoy growin
   <a href="https://instagram.com/0shlr" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" />
   </a>
-  <a href="https://twitter.com/_0shlr" target="_blank" style="margin: 0 20px;">
+  <a href="https://twitter.com/shlcir" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" />
   </a>
 </p>
