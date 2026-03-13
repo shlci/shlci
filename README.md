@@ -63,9 +63,6 @@ I value collaboration, adaptability, and continuous learning, and I enjoy growin
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/shahad-atiah-99016a309
-  <a href="https://www.linkedin.com/in/shahad-atiah-99016a309" target="_blank" style="margin: 0 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
   </a>
   <a href="https://instagram.com/0shlr" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" />
